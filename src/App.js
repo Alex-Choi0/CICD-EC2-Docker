@@ -4,7 +4,7 @@ import logo from "./logo.svg"
 function App() {
   return (
     <div className="App">
-      <h1>Deploy CI/CD!!!!!!!</h1>
+      <h1>Deploy CI/CD Test</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
