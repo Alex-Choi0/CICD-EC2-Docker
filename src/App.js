@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Deploy CI/CD Test!!!!</h1>
+	  <p>CI/CD를 구현해서 적용 : GitHub Action이용 </p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
